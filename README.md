@@ -1,1 +1,1 @@
-# mental-math
+# Mental Math Trainer
